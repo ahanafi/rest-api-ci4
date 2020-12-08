@@ -23,3 +23,19 @@
 8. Ketikkan command ```php spark serve```
 9. Setelah itu buka **http://localhost:8000**
 
+
+### Tool yang harus di persiapkan :
+1. Text Editor, kamu bisa gunakan beberapa teks editor berikut :
+   - [Sublime Text](https://www.sublimetext.com/3)
+   - [Visual Studio Code](https://code.visualstudio.com/)
+   - [Notepad++](https://notepad-plus-plus.org/downloads/)
+   
+   Atau bisa juga gunakan IDE seperti [PhpStorm](https://www.jetbrains.com/phpstorm/).
+2. Web Browser, bisa pakai [Google Chrome](https://www.google.com/intl/id/chrome/), [Mozilla Firefox](https://www.mozilla.org/id/firefox/browsers/), etc.
+3. REST Client, gunakan [Insomnia Core](https://updates.insomnia.rest/downloads/windows/latest) atau [Postman](https://www.postman.com/downloads/).
+4. Database : MySQL
+5. PHP minimal versi 7.2 ([Klik disini](https://tekno-g.blogspot.com/2018/07/cara-cek-versi-xampp-dan-php-di-windows.html) untuk mengetahui versi php yg terinstall di komputer).
+6. CodeIgniter versi 4
+
+Bingung? Tanya aja ke [sini](http://wa.me/6287784559535)
+
