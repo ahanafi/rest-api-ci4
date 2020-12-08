@@ -19,9 +19,10 @@
    - ke **/var/www/html/** (untuk pengguna Linux)
 5. Buat sebuah database dengan nama **db_restful_api**
 6. Import file SQL yang ada di folder *database* ke database yang baru dibuat.
-7. Kemudian buka terminal atau Command Prompt dari folder project tadi.
-8. Ketikkan command ```php spark serve```
-9. Setelah itu buka **http://localhost:8000**
+7. Ubah file **config.env** yang ada di luar folder project menjadi **.env**
+8. Kemudian buka terminal atau Command Prompt dari folder project tadi.
+9. Ketikkan command ```php spark serve```
+10. Setelah itu buka **http://localhost:8000**
 
 
 ### Tool yang harus di persiapkan :
