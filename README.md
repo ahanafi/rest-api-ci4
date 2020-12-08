@@ -5,8 +5,8 @@
 </div>
 <br>
 
-1. Slide Presentasi <a target="_blank" href='https://docs.google.com/presentation/d/1YZBexN6ZAEAQ1b-ta1zot5pM7I3VJXDP6vK-kH-lvac/edit?usp=sharing'>[DOWNLOAD]</a>
-2. Project <a target="_blank" href='/ahanafi/rest-api-ci4/archive/main.zip'>[DOWNLOAD]</a>
+1. Slide Presentasi <a href='https://docs.google.com/presentation/d/1YZBexN6ZAEAQ1b-ta1zot5pM7I3VJXDP6vK-kH-lvac/edit?usp=sharing'>[DOWNLOAD]</a>
+2. Project <a href='https://github.com/ahanafi/rest-api-ci4/archive/main.zip'>[DOWNLOAD]</a>
 3. Video Ngobar ~~DOWNLOAD~~
 
 ### Cara Install
