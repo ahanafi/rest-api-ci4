@@ -32,9 +32,11 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 
-$routes->get('/users', 'Users::index');
-$routes->get('/users/(:any)', 'Users::show/$1');
-$routes->post('/users', 'Users::create');
+$routes->get('/users', 'Users::index');                 //Menampilkan semua data user
+$routes->get('/users/(:any)', 'Users::show/$1');        //Menampilkan single data user berdasarokan id
+$routes->post('/users', 'Users::create');               //Mebuat data user baru
+$routes->put('users/(:any)', 'Users::update/$1');       //Memperbarui/update data user bedasarkan id
+$routes->delete('users/(:any)', 'Users::delete/$1');    //Menghapus data user berdasarkan id
 
 /**
  * --------------------------------------------------------------------
