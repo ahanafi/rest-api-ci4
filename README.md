@@ -7,7 +7,7 @@
 
 1. Slide Presentasi <a href='https://docs.google.com/presentation/d/1YZBexN6ZAEAQ1b-ta1zot5pM7I3VJXDP6vK-kH-lvac/edit?usp=sharing'>[DOWNLOAD]</a>
 2. Project <a href='https://github.com/ahanafi/rest-api-ci4/archive/main.zip'>[DOWNLOAD]</a>
-3. Video Ngobar ~~DOWNLOAD~~
+3. Video Ngobar : [Season 1](https://www.youtube.com/watch?v=o-YLFnojRP0) | [Season 2](https://www.youtube.com/watch?v=2QvlrYP4-rA)
 
 ### Cara Install
 
@@ -21,9 +21,7 @@
 6. Import file SQL yang ada di folder *database* ke database yang baru dibuat.
 7. Ubah file **config.env** yang ada di luar folder project menjadi **.env**
 8. Kemudian buka terminal atau Command Prompt dari folder project tadi.
-9. Ketikkan command ```php spark serve```
-10. Setelah itu buka **http://localhost/restful-api/public/** di web browser.
-
+9. Setelah itu buka **http://localhost/restful-api/public/** di web browser.
 
 ### Tool yang harus di persiapkan :
 1. Text Editor, kamu bisa gunakan beberapa teks editor berikut :
