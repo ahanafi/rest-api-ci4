@@ -22,7 +22,7 @@
 7. Ubah file **config.env** yang ada di luar folder project menjadi **.env**
 8. Kemudian buka terminal atau Command Prompt dari folder project tadi.
 9. Ketikkan command ```php spark serve```
-10. Setelah itu buka **http://localhost:8000**
+10. Setelah itu buka **http://localhost/restful-api/public/** di web browser.
 
 
 ### Tool yang harus di persiapkan :
@@ -38,5 +38,15 @@
 5. PHP minimal versi 7.2 ([Klik disini](https://tekno-g.blogspot.com/2018/07/cara-cek-versi-xampp-dan-php-di-windows.html) untuk mengetahui versi php yg terinstall di komputer).
 6. CodeIgniter versi 4
 
-Bingung? Tanya aja ke [sini](http://wa.me/6287784559535)
+Bingung? Tanya aja ke [sini](http://wa.me/6283824055826)
 
+
+### API Endpoint
+
+| Method    | Enpoint           | Description               |
+| -------   | -------           | --------------------------|
+|   GET     | /users            | Show all users            |
+|   GET     | /users/**{id}**   | Show single user by **id**|
+|   POST    | /users            | Create mew user           |
+|   PUT     | /users/**{id}**   | Update user with an **id**|
+|   DELETE  | /users/**{id}**   | Delete user by **id**     |
